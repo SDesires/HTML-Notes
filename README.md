@@ -8,7 +8,7 @@ Everyone needs a starting point when they learn, and learning HTML is no differe
 This is where you will find sample HTML Codes for reference.
 <ul>
   <li><b>index.html</b> - A base HTML page with comments within the code that you can copy if you need to start one. Includes a line to link an external CSS and JS page.</li>
-  <li></li>
+  <li><b>humble beginnings.html</b> - a simple webpage made entirely in html to give some examples of what it can do.</li>
 </ul>
 
 <br>
